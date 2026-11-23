@@ -1,9 +1,10 @@
 {
-  "version": "1.0.23.1",
-  "bundle": "bundle-1.0.23.1.zip",
-  "sha256": "6eb2c095ef9241d73a8ea3e8941e04859ab0d3beb45b370106c403939c8c4170",
+  "version": "1.0.23.2",
+  "bundle": "bundle-1.0.23.2.zip",
+  "sha256": "1bb0832488e770b48dda36aa78765e9a64d4bba1353a65907f378fa883a96cf4",
   "minShell": 1,
   "schema": 2,
   "notes": "",
-  "releasedAt": "2026-11-23T20:23:35.994Z"
+  "releasedAt": "2026-11-23T20:51:17.247Z",
+  "apk": "imperial-counselling-test-latest.apk"
 }
