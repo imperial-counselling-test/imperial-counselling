@@ -1,0 +1,33 @@
+{
+  "name": "Imperial Counselling TEST",
+  "short_name": "TEST Counselling",
+  "description": "The TEST copy of Imperial Counselling: invented students only.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FBF4ED",
+  "theme_color": "#0F766E",
+  "dir": "auto",
+  "icons": [
+    {
+      "src": "icons/test-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/test-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/test-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
